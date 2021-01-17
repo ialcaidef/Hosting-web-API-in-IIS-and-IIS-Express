@@ -1,0 +1,17 @@
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\bin\Debug\netcoreapp2.1\appsettings.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\bin\Debug\netcoreapp2.1\HostingISSAndISSExpress.Host.deps.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\bin\Debug\netcoreapp2.1\HostingISSAndISSExpress.Host.runtimeconfig.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\bin\Debug\netcoreapp2.1\HostingISSAndISSExpress.Host.runtimeconfig.dev.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\bin\Debug\netcoreapp2.1\HostingISSAndISSExpress.Host.dll
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\bin\Debug\netcoreapp2.1\HostingISSAndISSExpress.Host.pdb
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\obj\Debug\netcoreapp2.1\HostingISSAndISSExpress.Host.csprojAssemblyReference.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\obj\Debug\netcoreapp2.1\HostingISSAndISSExpress.Host.AssemblyInfoInputs.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\obj\Debug\netcoreapp2.1\HostingISSAndISSExpress.Host.AssemblyInfo.cs
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\obj\Debug\netcoreapp2.1\HostingISSAndISSExpress.Host.csproj.CoreCompileInputs.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\obj\Debug\netcoreapp2.1\HostingISSAndISSExpress.Host.RazorAssemblyInfo.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\obj\Debug\netcoreapp2.1\HostingISSAndISSExpress.Host.RazorAssemblyInfo.cs
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\obj\Debug\netcoreapp2.1\HostingISSAndISSExpress.Host.RazorTargetAssemblyInfo.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\obj\Debug\netcoreapp2.1\HostingISSAndISSExpress.Host.dll
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\obj\Debug\netcoreapp2.1\HostingISSAndISSExpress.Host.pdb
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod03\DemoFiles\HostingISSAndISSExpress\HostingISSAndISSExpress.Host\obj\Debug\netcoreapp2.1\HostingISSAndISSExpress.Host.genruntimeconfig.cache
